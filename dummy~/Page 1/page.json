@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "F8086C76-C5AB-45F1-BE45-377F8DA88060"
+    }
   ],
   "name": "Page 1",
   "nameIsFixed": false,
